@@ -1,0 +1,5 @@
+*.pyc
+__pycache
+/.idea/
+hello_django/venv
+hello_django/**/migrations
